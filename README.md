@@ -13,7 +13,7 @@ Uma landing page simples desenvolvida com **React**, **HTML**, **CSS** e **JavaS
 
 ---
 
-##  Início Rápido
+##  Projeto
 
 ###  Pré-requisitos
 
@@ -46,3 +46,7 @@ Para gerar os arquivos otimizados para produção:
 npm run build
 ```
 Os arquivos serão gerados na pasta dist/, prontos para deploy.
+
+## Link
+https://lucasschemes.github.io/LandingPage/ 
+
