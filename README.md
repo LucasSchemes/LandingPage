@@ -47,6 +47,6 @@ npm run build
 ```
 Os arquivos serão gerados na pasta dist/, prontos para deploy.
 
-## Link
+## Resultado -> Link
 https://lucasschemes.github.io/LandingPage/ 
 
