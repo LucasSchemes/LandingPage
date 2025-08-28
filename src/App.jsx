@@ -1,8 +1,8 @@
 import React from 'react'
-import './App.css'   // mantém só esse CSS
-import './buttons.css' // importa o CSS dos botões
-import './header.css'  // importa o CSS do header
-import './footer.css'  // importa o CSS do footer
+import './App.css'
+import './buttons.css'
+import './header.css'
+import './footer.css'
 import { FaPhone, FaInstagram, FaEnvelope } from "react-icons/fa";
 
 
@@ -22,7 +22,7 @@ function App() {
             <main id="home" className="home">
                 <div className="hero">
                     <img
-                        src="fotominha.jpg"   // <-- coloca tua foto aqui dentro de /public
+                        src="fotominha.jpg"
                         alt="Foto de perfil"
                         className="foto-perfil"
                     />
@@ -35,7 +35,7 @@ function App() {
                 </div>
 
             </main >
-            <div style={{ height: '50px' }}></div> {/* Espaço entre seções */}
+            <div style={{ height: '50px' }}></div>
             <section id="sobre" className="sobre">
 
                 <h2>Sobre mim</h2>
